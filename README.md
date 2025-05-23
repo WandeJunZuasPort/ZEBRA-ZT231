@@ -16,10 +16,6 @@ zpl
 
 SEQUENCIA1, SEQUENCIA2, SEQUENCIA3 → texto codificado, por exemplo: 0001, 0002, 0003.
 
-2. Gerar sequências automaticamente
-Você pode criar um script em Java, Python, Node.js ou qualquer linguagem, que:
-
-Pegue a sequência inicial.
 
 A cada ciclo, gere o comando ZPL com os próximos 3 números.
 
